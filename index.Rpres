@@ -68,7 +68,9 @@ Using again google trends, we will compare the data of 2 key words "panic attack
 Proposed analyses
 ========================================================
 
-We'll use t-test (independent samples) to measure the mean difference of total searches of the key words "panic attacks" in the eastern and western countries 
+Statistical analysis will take place in R
+
+We'll use t-test ( for independent samples) to measure the mean difference of total searches of the key words "panic attacks" in the eastern and western countries 
 
 We'll use Pearson correlation coefficient (Pearson r) to examine whether there is a correlation between the total searches of "panic attacks" and "agoraphobia" worldwide during the last 5 years
 
@@ -88,3 +90,7 @@ Reference
 
 
 Weissman, M. M., Bland, R. C., Canino, G. J., Faravelli, C., Greenwald, S., Hwu, H. G., ... &     Lépine, J. P. (1997). The cross-national epidemiology of panic disorder. Archives of General    Psychiatry, 54(4), 305-309.
+
+
+
+
